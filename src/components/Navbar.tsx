@@ -19,8 +19,8 @@ const Navbar = () => {
         <ul className="flex gap-20">
           <li>
             <a
-              href="#"
-              className="p-2.5 flex items-center  text-2xl hover:text-amber-600"
+              href=""
+              className="p-2.5 flex items-center text-neutral-800 text-lg hover:text-amber-600"
             >
               Home
             </a>
@@ -28,7 +28,7 @@ const Navbar = () => {
           <li>
             <a
               href="#"
-              className="p-2.5 flex items-center hover:underline      text-2xl hover:text-amber-600"
+              className="p-2.5 flex items-center hover:underline text-neutral-800 text-lg hover:text-amber-600"
             >
               Rooms
             </a>
@@ -36,7 +36,7 @@ const Navbar = () => {
           <li>
             <a
               href="#"
-              className="p-2.5 flex items-center hover:underline      text-2xl hover:text-amber-600"
+              className="p-2.5 flex items-center hover:underline text-neutral-800 text-lg hover:text-amber-600"
             >
               Hall Booking
             </a>
@@ -44,7 +44,7 @@ const Navbar = () => {
           <li>
             <a
               href="#"
-              className="p-2.5 flex items-center hover:underline      text-2xl hover:text-amber-600"
+              className="p-2.5 flex items-center hover:underline text-neutral-800 text-lg hover:text-amber-600"
             >
               Gallery
             </a>
@@ -52,14 +52,14 @@ const Navbar = () => {
           <li>
             <a
               href="#"
-              className="p-2.5 flex items-center hover:underline text-2xl hover:text-amber-600"
+              className="p-2.5 flex items-center hover:underline text-neutral-800 text-lg hover:text-amber-600"
             >
               Contact Us
             </a>
           </li>
         </ul>
       </nav>
-      <button className="bg-amber-600 px-10 py-4 rounded-md text-white hover:bg-white hover:text-amber-600 hover: border-2 hover:border-amber-600">
+      <button className="bg-amber-600 px-10 py-4 rounded-md text-white hover:bg-white hover:text-amber-600 hover:border-2 hover:border-amber-600">
         Book Now
       </button>
     </header>
