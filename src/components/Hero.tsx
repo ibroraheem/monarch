@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="hero">
       <div
         className="w-full h-[534px] bg-cover bg-no-repeat"
-        style={{ backgroundImage: 'url(/herobg.svg)' }}
+        style={{ backgroundImage: 'url(/HeroBg2.png)' }}
       ></div>
     </div>
   )
